@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cpoo1e
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Genetics / Unix Bioinformatic pipelines
-- 😄 Pronouns: He / Him
+- Hi, I’m @Cpoo1e
+- BSc Genetics Graduate
+- Currentl studying MSc in Bioinformatics
+- Pronouns: He / Him
 
 
